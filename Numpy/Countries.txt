@@ -1,0 +1,12 @@
+Country,European_Region,GDPperCapita(PPP),Population_Millions
+Portugal,Southern,33.4,10.3
+Poland,Eastern,33.5,38.4
+Germany,Western,55,82.9
+United Kingdom,Northern,47,66.4
+France,Western,47.1,67.3
+Spain,Southern,42.1,46.8
+Italy,Southern,40.7,60.5
+Belgium,Western,49.7,11.5
+Norway,Northern,76.6,5.4
+Switzerland,Western,66.8,8.6
+Azerbaijan,Eastern,18.8,9.9
