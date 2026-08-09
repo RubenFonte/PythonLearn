@@ -3,3 +3,5 @@ Learn Pandas in 1 hour! - https://www.youtube.com/watch?v=VXtjG_GzO7Q&t=1s
 Learn Matplotlib in 1 hour! - https://www.youtube.com/watch?v=c9vhHUGdav0
 Python Full Course for free - https://www.youtube.com/watch?v=ix9cRaBkVe0
 Watch me Do a Data Analyst Project in minutes with Python - https://www.youtube.com/watch?v=ux9uxKM171E
+Portfolio Analysis in Python with QuantStats - https://www.youtube.com/watch?v=NqnL3KB-Jrc
+The Ultimate Python Course For Beginners (Learn How To Code in 2026) - https://www.youtube.com/watch?v=Lc5LKDqhyzs
